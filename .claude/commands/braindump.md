@@ -1,7 +1,7 @@
 Run a guided brain-dump interview to fill my evidence bank. Follow CLAUDE.md rules.
 
 1. First read `profile.md`, `evidence/INDEX.md`, and anything in `inbox/`. Work out what's missing.
-2. Ask me **one question at a time**, conversationally. Start with the biggest gaps. Cover, over time:
+2. Ask me all your questions at once as a numbered list, grouped by topic. Start with the biggest gaps. Cover, over time:
    - every job, site and project I've worked on (employer, dates, location, size)
    - techniques, species and ecosystems I know
    - tools and tech (GPS, mapping or data apps, spreadsheets)

@@ -3,8 +3,8 @@
 ## Who I am
 - Bush regenerator in NSW, moving into ecological stewardship or a better-paying environmental role.
 - I apply for three kinds of roles: NSW Government (state), local council, and private/not-for-profit.
-- Target titles: bush regenerator, ecological stewardship, project officer, and similar roles that move me toward that career. Full details are in `profile.md`.
-- I have no tech or coding background. Explain anything technical in plain English, ask one question at a time, and keep things small.
+- Target titles: Bushcare/bushland supervisor, ecological stewardship, project officer, community engagement, environment admin, and similar. Minimum base salary $78,000. Priority: NSW Government (especially DCCEEW), then council, then private. Full details are in `profile.md`.
+- I have no tech or coding background. Explain anything technical in plain English and keep things small. **When gathering information, ask all your questions at once as a numbered list** (my preference); I'll answer in one go. If I say "don't worry about this", drop it, with no [CHECK] nagging.
 
 ## How the repo works
 - `profile.md` — contact details, work history, qualifications/tickets, referees, target roles, career goal.
