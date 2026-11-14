@@ -90,3 +90,17 @@ This is a child-related position. Successful candidates must hold a valid NSW Wo
 To be eligible for a position at TAFE NSW, you must be an Australian citizen, a permanent resident of Australia, or a New Zealand citizen with a current New Zealand passport.
 
 A talent pool, valid for 18 months, may be created for this position and used to fill future vacancies.
+
+## Role description (10018-03, uploaded by Estella)
+
+No NSW capabilities are listed. It has key responsibilities and selection criteria instead.
+
+**Key responsibilities:** support students with tasks and learning materials; tutor in a range of locations and modes; follow up students using the teacher's tutoring strategy to keep them engaged; support ASQA compliance documentation; provide follow-up instruction and skills practice; give feedback face-to-face, by email or online; work as part of a delivery team, attend meetings and do admin. The role does not teach, prepare lessons or resources, deliver training or assess.
+
+**Selection criteria:**
+- Appropriate subject knowledge, skills and vocational qualifications, and a commitment to keeping technical skills current
+- Ability to understand the content of the learning materials and the processes used in the discipline
+- High-level interpersonal and communication skills, including being proactive, showing initiative and explaining ideas clearly and concisely
+- Commitment and ability to support learning in an adult environment, and a demonstrated ability to motivate and encourage students
+- Ability to build effective working relationships with people from diverse backgrounds and provide quality customer service as part of a broader team
+- Skills in using relevant information and communication technologies
