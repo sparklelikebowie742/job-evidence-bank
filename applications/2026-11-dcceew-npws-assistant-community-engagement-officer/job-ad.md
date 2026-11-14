@@ -1,12 +1,40 @@
 # Assistant Community Engagement Officer — NPWS (DCCEEW)
 
-Pasted by Estella, 14 Nov 2026. Full Role Description not yet provided.
+Pasted by Estella, 14 Nov 2026. Full Role Description saved as `role-description.docx`.
 
 - Employer: National Parks and Wildlife Service, Department of Climate Change, Energy, the Environment and Water (NSW Government)
 - Ongoing full-time. All NPWS office locations considered; regional encouraged; hybrid supported.
 - Salary: $102K to $113K + super
-- Closing date: [CHECK: not in ad]
-- Documents required: [CHECK: not in ad]
+- Grade: Clerk Grade 5/6 (Community Engagement Unit, Strategy and Coordination Branch, Business Delivery)
+- Closing date: **Sunday 22 November 2026, 11:55pm**
+- Documents required: resume (ideally 4 pages or less) and cover letter (ideally no more than 1 page)
+- Eligibility: Australian citizen, NZ citizen or permanent resident (ongoing role)
+- Contact: Susanne Larson
+
+## Role Description summary
+
+**Essential requirements**
+- Experience in delivering community engagement programs for high profile or politically sensitive projects
+- Well-developed organisational skills, the capacity to successfully complete several tasks concurrently and meet deadlines
+
+**Focus capabilities**
+- Act with Integrity (Intermediate)
+- Communicate Effectively (Intermediate)
+- Commit to Customer Service (Adept)
+- Deliver Results (Intermediate)
+- Think and Solve Problems (Intermediate)
+- Technology (Intermediate)
+- Project Management (Intermediate)
+
+**Key accountabilities**
+- Support development and coordination of communication and community engagement strategies and programs
+- Assist development and implementation of engagement strategies for state-wide and regional program outcomes
+- Build working relationships with internal and external stakeholders; exchange information and respond to enquiries
+- Help prepare reports, submissions, briefing notes and ministerial correspondence, including on contentious issues
+- Administrative support, including coordinating working groups and committees
+- Maintain a database of stakeholder contacts
+
+**Key challenges:** keeping up with frequently changing policies and procedures; delivering multiple tasks to tight deadlines with competing priorities.
 
 ## Ad text
 

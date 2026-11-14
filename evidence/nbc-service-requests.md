@@ -2,13 +2,13 @@
 
 - **Employer / dates:** Northern Beaches Council, Jun 2026 – present
 - **NSW capabilities (rough level):** Commit to Customer Service (Adept); Think and Solve Problems (Intermediate); Procurement and Contract Management (Intermediate); Technology (Intermediate); Communicate Effectively (Intermediate)
-- **Skills / keywords:** customer service, service requests, land tenure, ArcGIS Online, council mapping, site investigation, contractor procurement, Ci Anywhere, resident liaison
+- **Skills / keywords:** customer service, service requests, land tenure, ArcGIS Online, council mapping, site investigation, contractor procurement, Ci Anywhere, resident liaison, CRM
 
 ## Situation
 Residents lodge service requests about bushland issues (e.g. weeds, fallen trees, encroachment). Each one first needs checking for whether the land and the issue are council's responsibility.
 
 ## Task
-Take service requests through to resolution.
+Take service requests through to resolution, managed in council's customer request management (CRM) system.
 
 ## Action
 - Confirmed land tenure and council responsibility in ArcGIS Online and council mapping software.

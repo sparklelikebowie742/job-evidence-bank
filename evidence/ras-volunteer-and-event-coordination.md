@@ -2,7 +2,7 @@
 
 - **Employer / dates:** Royal Agricultural Society of NSW, Jan – Nov 2024
 - **NSW capabilities (rough level):** Plan and Prioritise (Adept); Finance (Intermediate); Procurement and Contract Management (Intermediate); Act with Integrity (Intermediate); Manage and Develop People (Intermediate); Communicate Effectively (Intermediate)
-- **Skills / keywords:** volunteer coordination, recruitment, scheduling, conflict-of-interest checks, event management, budget, supplier quotes, purchase orders, stakeholder correspondence, team supervision, regulations, administration
+- **Skills / keywords:** volunteer coordination, recruitment, scheduling, conflict-of-interest checks, event management, budget, supplier quotes, purchase orders, stakeholder correspondence, team supervision, regulations, administration, custom database, Excel, stakeholder database
 
 ## Situation
 The Royal Agricultural Society runs large competitions judged by volunteers, plus awards events.
@@ -11,7 +11,7 @@ The Royal Agricultural Society runs large competitions judged by volunteers, plu
 Coordinate volunteer judges and stewards, manage competition entries, and deliver awards events.
 
 ## Action
-- Recruited, vetted and scheduled 1,000+ volunteer judges and stewards across 11 competitions, including conflict-of-interest checks.
+- Recruited, vetted and scheduled 1,000+ volunteer judges and stewards across 11 competitions using a custom database and Excel, including conflict-of-interest checks.
 - Oversaw a four-person team handling 10,000+ competition entries from arrival to judging, in line with competition regulations.
 - Delivered two major awards events end to end, one of them an inaugural event, with budgets of up to $30,000.
 - Sourced competing supplier quotes, recommended suppliers with price justification, and processed purchase orders.
