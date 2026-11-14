@@ -31,12 +31,12 @@ Sectors: NSW Government, local council, private / not-for-profit.
 - **Bush Regeneration Field Officer**, Northern Beaches Council, Jun 2026 – present. Co-manage two large regen projects; programmed regen across 13 reserves; bushland service requests.
 - **Bushland Field Officer**, Wingecarribee Shire Council, Dec 2024 – May 2026. Bush regen across 42 sites incl. two TECs; 10+ reveg projects; Bushcare supervision; Saving our Species propagation.
 - **Bush Regenerator**, Total Earth Care, Feb – Oct 2024. Follow-up regen across 15 contract sites for councils and private landholders, in crews of up to 8; APZ clearing.
-- **Events and Administrative Assistant**, Royal Agricultural Society of NSW, Jan – Nov 2024. Awards events, 1,000+ volunteer judges, supplier quotes. [CHECK: was this part-time alongside Total Earth Care?]
+- **Events and Administrative Assistant**, Royal Agricultural Society of NSW, Jan – Nov 2024. Awards events, 1,000+ volunteer judges, supplier quotes. Part-time, alongside Total Earth Care.
 - **Graduate Consultant**, Nous Group, Mar – Oct 2023. Co-designed framework for NSW Gov Conservation and Threatened Species functions.
 
 ## Field research
-- Field surveyor, Glossies in the Mist (Saving our Species), 2025.
-- Field surveyor, Koala Sentinel Monitoring Program, NSW Government, 2025–2026.
+- Field surveyor, Glossies in the Mist (Saving our Species), 2025 (as part of Wingecarribee role).
+- Field surveyor, Koala Sentinel Monitoring Program, NSW Government, 2025–2026 (as part of Wingecarribee role).
 - Research field assistant, Centre for Tropical Environmental and Sustainability Science, 2024.
 - Research field assistant, University of Sydney, 2021.
 
@@ -56,10 +56,10 @@ Sectors: NSW Government, local council, private / not-for-profit.
 - Class C manual driver's licence, with 4WD experience
 
 ## Tools and systems
-ArcGIS / ArcGIS Online, ArcGIS Field Maps, Survey123, SeaMaps [CHECK: spelling/name], BioNet, NatureMapr, GPS, Smartsheet, Ci Anywhere, SolvSafety, Microsoft Office (Excel, Word, PowerPoint, Outlook).
+ArcGIS / ArcGIS Online, ArcGIS Field Maps, Survey123, council enterprise mapping software, BioNet, NatureMapr, GPS, Smartsheet, Ci Anywhere, SolvSafety, Microsoft Office (Excel, Word, PowerPoint, Outlook).
 
 ## Volunteering
-- Bushcare volunteer, Northern Beaches Bushcare and Lane Cove Bushcare, about 3 years in total. [CHECK: years]
+- Bushcare volunteer, Northern Beaches Bushcare and Lane Cove Bushcare, about 3 years in total.
 
 ## Referees
 - Available on request (Estella will add details herself).

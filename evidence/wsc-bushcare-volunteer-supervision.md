@@ -21,4 +21,3 @@ Independently supervise Bushcare working bees and keep volunteers safe, producti
 - 120+ working bees a year, supervised independently.
 - Supported a program of up to 350 active volunteers.
 - Incidents managed and reported promptly, with volunteers followed up.
-- [CHECK: any measure of volunteer retention, feedback or work achieved (area weeded, plants)?]

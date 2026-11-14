@@ -10,7 +10,7 @@
 - `profile.md` — contact details, work history, qualifications/tickets, referees, target roles, career goal.
 - `evidence/` — one file per story, in STAR format (Situation, Task, Action, Result), with a tag block at the top. File names: `short-descriptive-name.md`. Copy `evidence/_template.md` for new ones.
 - `evidence/INDEX.md` — one table listing every story and its tags. **Update it every time a story is added or changed.**
-- `reference/nsw-capability-framework.md` — plain-English summary of the NSW Public Sector Capability Framework.
+- `reference/nsw-capability-framework.md` — plain-English summary of the NSW Public Sector Capability Framework. **Not filled in yet:** the PSC website is blocked from Claude's workspace. When I say a job is a government job, ask me to paste the framework text (or the relevant capabilities), then fill in this file.
 - `master-resume.md` — full, untailored resume built from profile + evidence. Update it when big new evidence arrives.
 - `applications/YYYY-MM-employer-role-title/` — one folder per job: `job-ad.md` (what I pasted), `resume.md`, `cover-letter.md`, and `targeted-questions.md` or `selection-criteria.md` when needed.
 - `inbox/` — raw documents I upload (old resumes, references, certificates). Read them and pull evidence out.

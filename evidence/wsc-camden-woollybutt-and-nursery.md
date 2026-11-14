@@ -22,4 +22,3 @@ Propagate and establish Camden Woollybutt, fill plant orders from council's tree
 - Kept the nursery producing high-quality provenance stock for six months without its usual officer.
 - Excellent feedback from my manager.
 - Supplied council revegetation, Saving our Species projects and Land for Wildlife giveaways.
-- [CHECK: survival rate of the Camden Woollybutt plantings, if known]

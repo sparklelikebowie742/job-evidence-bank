@@ -19,4 +19,6 @@ Keep myself, my team, volunteers and the public safe, and meet council and contr
 - Cleared asset protection zones to contract scope and WHS standards (Total Earth Care).
 
 ## Result
-- [CHECK: any measurable results, e.g. no lost-time injuries, or a hazard you spotted that prevented an incident?]
+- Incidents reported promptly and the people involved followed up.
+- Chemical records kept accurately and chemicals stored safely, in line with AQF3 chemical accreditation.
+- Asset protection zones cleared to contract scope and WHS standards.

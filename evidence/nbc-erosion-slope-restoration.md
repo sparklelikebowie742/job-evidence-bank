@@ -22,4 +22,3 @@ Co-manage the project with a colleague, from site assessment and restoration str
 - Turned around a site a previous team had abandoned.
 - Regular positive feedback from residents, who said they'd wanted the area restored for years.
 - Manager highly satisfied; gave positive feedback and recognition through business unit meetings.
-- [CHECK: any figures for weed cover before/after, or % of budget spent to date?]

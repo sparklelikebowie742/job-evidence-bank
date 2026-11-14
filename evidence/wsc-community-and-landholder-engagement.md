@@ -19,4 +19,3 @@ Represent council at public weed education events run with Local Land Services, 
 - Reached up to about 240 landholders across 4 Local Land Services events.
 - Delivered 13 school and community planting events.
 - Strengthened council's working relationship with Local Land Services.
-- [CHECK: any follow-up from landholders, e.g. Land for Wildlife sign-ups or requests for advice?]

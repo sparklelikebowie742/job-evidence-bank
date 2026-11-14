@@ -1,19 +1,19 @@
-# Preparing sites for cultural burns and protecting Aboriginal cultural heritage
+# Supporting cultural burns and protecting Aboriginal cultural heritage
 
-- **Employer / dates:** [CHECK: employer and year]
-- **NSW capabilities (rough level):** Value Diversity and Inclusion (Intermediate); Work Collaboratively (Intermediate); Act with Integrity (Intermediate)
-- **Skills / keywords:** cultural burns, cool burns, Aboriginal cultural heritage, birthing pools, axe grinding grooves, burn preparation, fire management
+- **Employer / dates:** Wingecarribee Shire Council, Dec 2024 – May 2026
+- **NSW capabilities (rough level):** Value Diversity and Inclusion (Intermediate); Work Collaboratively (Intermediate–Adept); Act with Integrity (Intermediate)
+- **Skills / keywords:** cultural burns, cool burns, Aboriginal Elders, Aboriginal cultural heritage, birthing pools, axe grinding grooves, NSW Rural Fire Service (RFS), bushfire management, burn preparation, fire management, cross-agency work
 
 ## Situation
-Cultural (cool) burns were planned on sites containing Aboriginal cultural heritage, including birthing pools and axe grinding grooves.
+Council held cultural (cool) burns on bushland containing Aboriginal cultural heritage, including birthing pools and axe grinding grooves. The burns were led by Aboriginal Elders, with the NSW Rural Fire Service and council's Bushfire Management Officer.
 
 ## Task
-Prepare burn areas and protect cultural sites.
+Support the burns by preparing the burn areas and protecting cultural sites.
 
 ## Action
 - Prepared burn areas ahead of the cultural burns.
 - Protected Aboriginal cultural artefacts and sites, including birthing pools and axe grinding grooves.
-- [CHECK: who led the burns (e.g. a Local Aboriginal Land Council or Aboriginal rangers)? How many burns or hectares?]
+- Worked alongside Aboriginal Elders, the RFS and council's Bushfire Management Officer.
 
 ## Result
-- [CHECK: outcome, e.g. burns completed safely, area burnt, heritage sites undamaged]
+- Supported Elder-led cultural burns on council land, with cultural heritage sites protected.

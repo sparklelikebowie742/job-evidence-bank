@@ -3,7 +3,7 @@ Help me apply for a job. Follow CLAUDE.md rules.
 The job ad / role description: $ARGUMENTS
 
 1. If I haven't pasted the ad yet, ask me to paste it (and any role description or application instructions).
-2. Identify the role type: NSW Government, local council, or private/not-for-profit.
+2. Identify the role type: NSW Government, local council, or private/not-for-profit. If it's NSW Government and `reference/nsw-capability-framework.md` hasn't been filled in yet, ask me to paste the framework text for the focus capabilities and save it there first.
 3. Pull out the key requirements and show me a short list:
    - NSW Gov: focus capabilities and their levels, plus any targeted questions and their word limits
    - Council: essential and desirable selection criteria

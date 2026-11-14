@@ -19,4 +19,3 @@ As a graduate consultant working alongside senior consultants, help design a new
 
 ## Result
 - Co-designed a framework that a separate delivery team later implemented.
-- [CHECK: roughly how many stakeholders or consultations were involved?]

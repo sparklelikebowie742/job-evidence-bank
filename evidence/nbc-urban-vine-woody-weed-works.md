@@ -13,8 +13,6 @@ Co-manage, with a colleague, staged primary weed control and revegetation works 
 ## Action
 - Planned the works in stages so each cleared area could be followed up before moving on.
 - Matched the control method to each weed: chainsaws and power tools for large woody weeds, manual removal, cut-and-paint, stem injection, and knapsack spraying with selective and non-selective herbicides.
-- [CHECK: how is revegetation planned for the cleared areas — species, numbers, timing?]
 
 ## Result
 - 800 sqm through primary clearing so far (ongoing).
-- [CHECK: did residents or your manager comment on this site too?]
