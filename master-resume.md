@@ -16,8 +16,9 @@ I plan works around the seasons and site conditions, supervise and train Bushcar
 - **Threatened species and ecology:** Saving our Species, threatened ecological communities, BAM-based plots, vegetation condition assessment, BioNet records, fauna surveys.
 - **Nursery:** seed collection and storage, provenance propagation (50+ species), plant health.
 - **Community and volunteers:** Bushcare supervision, safety inductions, training, school and community planting events, landholder weed education.
+- **Training and communication:** trained 10+ new staff and volunteers on the job; supervised a work experience student; presented scientific ideas to academics, teachers and students; wrote guides and info sheets on environmental issues and biosecurity for landholders.
 - **WHS:** toolbox talks, risk identification and controls, chemical records and storage, incident reporting, first aid.
-- **Technology:** ArcGIS and ArcGIS Online, Field Maps, Survey123, BioNet, NatureMapr, GPS, Smartsheet, Ci Anywhere, SolvSafety, council mapping software, Microsoft Office.
+- **Technology:** ArcGIS and ArcGIS Online, Field Maps, Survey123, BioNet, NatureMapr, GPS, Smartsheet, Ci Anywhere, SolvSafety, council mapping software, Microsoft Office, MS Teams, Moodle.
 
 ## Professional experience
 
