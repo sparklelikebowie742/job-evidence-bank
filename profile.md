@@ -60,6 +60,7 @@ ArcGIS / ArcGIS Online, ArcGIS Field Maps, Survey123, council enterprise mapping
 
 ## Volunteering
 - Bushcare volunteer, Northern Beaches Bushcare and Lane Cove Bushcare, about 3 years in total.
+- Volunteer working group member, AABR 40/40 Forum (Australian Association of Bush Regenerators' 40th anniversary forum, 27 Nov 2026, Surry Hills), 2026: about 3 months, ~6 hours a week, coordinating 14 speakers for up to 400 attendees (hybrid). Invited to join the AABR Board as a result.
 
 ## Referees
 - Available on request (Estella will add details herself).

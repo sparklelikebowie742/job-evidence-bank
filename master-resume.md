@@ -121,7 +121,18 @@ I plan works around the seasons and site conditions, supervise and train Bushcar
 
 ## Volunteering
 
-- Bushcare volunteer, Northern Beaches and Lane Cove, about 3 years.
+### Working Group Member, AABR 40/40 Forum
+**Australian Association of Bush Regenerators (AABR)** | 2026 (about 3 months)
+
+- Coordinating all 14 speakers and presenters for AABR's 40th anniversary forum (27 November 2026, Surry Hills), a hybrid event for up to 400 attendees, as part of a working group of 8 including paid AABR staff.
+- Sourced speakers through my own professional network and the working group's, then handled invitations, briefings, bios, slides and materials, including chasing late-confirmed presenters.
+- Built the program and run sheet, set up Slido for audience questions, and handled registrations and attendee enquiries.
+- Purchased materials and presenter gifts, and kept all forum information organised in Excel and Google Drive.
+- Picked up overlooked tasks to take pressure off the main organiser.
+- Invited to join the AABR Board as a result of this work.
+
+### Bushcare Volunteer
+**Northern Beaches and Lane Cove Bushcare** | about 3 years
 
 ## Referees
 
