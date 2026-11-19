@@ -8,8 +8,8 @@ Pasted by Estella on 2026-11-17.
 - **Salary:** $76,034 – $83,067 + super (placement in the range depends on skills and experience)
 - **Closes:** 9pm, 27 November 2026
 - **Reports to:** Team Leader Bush Regenerator
-- **Apply with:** not stated in the ad [CHECK: confirm in the portal or position description whether a cover letter or written criteria responses are needed]
-- **Position description:** linked in the ad but blocked from Claude's workspace [CHECK: paste the PD text if you can open it]
+- **Apply with:** resume and covering letter (going by the second ad text below; confirm in the portal)
+- **Position description:** linked in the ad but blocked from Claude's workspace. The text Estella pasted as the PD is a different ad (see the bottom of this file).
 - **Pre-employment:** National Police Check; possible medical check. Must be an Australian citizen or permanent resident.
 - **Contact:** Samata Billa, Talent Acquisition Partner, BillaS@liverpool.nsw.gov.au
 
@@ -57,3 +57,12 @@ We welcome candidates from all backgrounds and value diversity and inclusion in 
 Position description: https://liverpool.csod.com/clientimg/liverpool/jobAdUploads/Erp%20Bush%20Regeneration%20Position.pdf
 
 Applications close 9pm 27th November 2026.
+
+## Second ad text (pasted 2026-11-19 as the position description)
+
+This doesn't match the ad above. It's an **Identified** version of the role (open only to Aboriginal and/or Torres Strait Islander people), with a different salary ($73,110.27 – $79,827.54), a different contact (Steven Hodosi, Coordinator – Environmental Operations, 8711 7032) and a "2 weeks" closing date. The application was written for the ad above, which isn't marked as Identified.
+
+Differences from the ad above:
+- Asks for a covering letter "outlining your interest and how your background and experience suit this opportunity", plus a resume.
+- Extra criteria: "Willing to obtain MR license"; "Provide technical and practical input into tender preparation as required"; "Familiarity with vegetation of Western Sydney, especially the Cumberland Plain".
+- Duties also mention council's environmental volunteer program and community education.

@@ -10,11 +10,12 @@ I plan works around the seasons and site conditions, supervise and train Bushcar
 
 ## Key skills
 
-- **Bush regeneration and weed control:** primary and follow-up works; hand weeding; herbicide application (knapsack, cut-and-paint, stem injection, selective and non-selective); brushcutter, chainsaw and pole saw.
+- **Bush regeneration and weed control:** primary and follow-up works; hand weeding; herbicide application (knapsack, cut-and-paint, stem injection, selective and non-selective); mulching; rubbish removal; brushcutter, chainsaw and pole saw.
+- **Plant and equipment:** pre-start checks and maintenance of all power tools; trailer towing; manual ute with off-road experience.
 - **Restoration planning:** site assessment, restoration strategy, seasonal works programs, staged works, species and materials selection, project budgets.
-- **Revegetation and erosion control:** coir logs, jute mat and netting; planting; watering regimes; survival monitoring.
+- **Revegetation and erosion control:** coir logs, jute mat and netting; planting; replacement planting to rebuild canopy, mid-storey and groundcover; watering regimes; survival monitoring.
 - **Threatened species and ecology:** Saving our Species, threatened ecological communities, BAM-based plots, vegetation condition assessment, BioNet records, fauna surveys.
-- **Nursery:** seed collection and storage, provenance propagation (50+ species), plant health.
+- **Nursery:** local provenance seed collection (20+ species) and storage, provenance propagation (50+ species), plant health.
 - **Community and volunteers:** Bushcare supervision, safety inductions, training, school and community planting events, landholder weed education.
 - **Training and communication:** trained 10+ new staff and volunteers on the job; supervised a work experience student; presented scientific ideas to academics, teachers and students; wrote guides and info sheets on environmental issues and biosecurity for landholders.
 - **WHS:** toolbox talks, risk identification and controls, chemical records and storage, incident reporting, first aid.
@@ -34,6 +35,7 @@ I plan works around the seasons and site conditions, supervise and train Bushcar
 - Running staged primary weed control on a 10,000 sqm urban site with Ipomoea, Madeira vine, lantana, ochna, privet, senna, Arundo donax and coral trees. 800 sqm cleared so far.
 - Choose species, materials and budgets, and sequence project works against the wider reserve works program.
 - Deliver programmed bush regeneration across 13 bushland reserves.
+- Collect local provenance seed from 20+ species and help council-run nurseries propagate stock for local plantings.
 - Co-delivered a National Tree Day planting for 90 participants with an external partner team, running safety briefings and promoting Bushcare. Recognised through council's staff recognition program.
 - Handled 100+ bushland service requests:
   - confirm land tenure in ArcGIS Online and council mapping
@@ -78,7 +80,7 @@ I plan works around the seasons and site conditions, supervise and train Bushcar
 ### Bush Regenerator
 **Total Earth Care** | February – October 2024
 
-- Delivered follow-up bush regeneration across 15 sites under maintenance contracts for councils and private landholders, in crews of up to 8.
+- Delivered follow-up bush regeneration across 15 Northern Beaches sites under maintenance contracts for councils and private landholders, in crews of up to 8.
 - Used manual weed control and cut-and-paint herbicide application, planted natives, and cleared asset protection zones to contract scope and WHS standards.
 
 ### Events and Administrative Assistant (part-time)
@@ -104,7 +106,7 @@ I plan works around the seasons and site conditions, supervise and train Bushcar
 ## Education
 
 - Bachelor of Animal and Veterinary Bioscience (First Class Honours), University of Sydney, 2022. Major: Wildlife Conservation and Management.
-- Certificate III in Conservation and Ecosystem Management, Ryde TAFE NSW, 2024.
+- Certificate III in Conservation and Ecosystem Management, Ryde TAFE NSW, 2024. Included work on Cumberland Plain Woodland.
 
 ## Publication
 
@@ -117,7 +119,8 @@ I plan works around the seasons and site conditions, supervise and train Bushcar
 - First Aid and CPR
 - Construction Induction (White Card)
 - Working with Children Check
-- Class C manual driver's licence, with 4WD experience
+- Class C manual driver's licence, with 4WD, off-road and trailer towing experience
+- Council training: EEO, code of conduct, diversity and cultural awareness, conflict resolution and management
 
 ## Volunteering
 
